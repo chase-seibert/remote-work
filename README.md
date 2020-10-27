@@ -1,7 +1,4 @@
 # Remote Work Learnings & Best Practices
-(from companies who have done it)
-
-## Goal :goal target: 
 
 Gather best practices from companies that have been doing 100% remote for a long time 
 
