@@ -45,10 +45,11 @@ Gather best practices from companies that have been doing 100% remote for a long
 - Live video “work side by side” sessions (S)
 - Consider company sponsorship for interest groups (C)
 - Trust inside a team tied to 75% less stress, 50% higher productivity (H) 
+- Transparency by default can aid in building trust with remote teams (H) 
 
 ### Hiring
-- Ideal traits: bias to action, can prioritize, good written communication, trustworthy [
-- Written (not just verbal) communication is so critical that you should evaluate it in hiring — insist on and evaluate a cover letter (C)
+- Ideal traits: bias to action, can prioritize, good written communication, trustworthy
+- Written (not just verbal) communication is so critical that you should evaluate it in hiring — insist on and evaluate a cover letter (C) (H)
 - Retaining existing folks with org knowledge is even more important in remote first (C)
 - If you pay top-band rates to every hiring market, you get an unfair hiring and retention advantage (C)
 - Engineers: ask the candidate to do real work, and pay for it, versus a coding interview, see also contract to perm (C)
