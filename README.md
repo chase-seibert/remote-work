@@ -14,7 +14,7 @@ Gather best practices from companies that have been doing 100% remote for a long
 
 ### Communication 
 - Have ONE of each communication tool: synchronous, asynchronous, and long term storage, be explicit about what method to use when (S) (T) (C)
-- Be explicit about tone, ex: “I’m kidding”, if there is any tone confusion, up level to higher mode (video) (S) (T) (C)
+- Be explicit about tone, ex: “I’m kidding”, if there is any tone confusion, up level to higher mode (video) (S) (T) (C) (H)
 - Communicate with repetition (I)
 - Ensure visibility of work (newsletters, boards, exec reports, demos) (I)
 - Conscious shift to async communication (C)
